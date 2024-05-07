@@ -15,11 +15,11 @@
       "trudnosc": 3
     },
     {
-      "tytul": "Uno",
+      "tytul": "Szachy",
       "minLG": 2,
-      "maxLG": 99,
+      "maxLG": 2,
       "czas": 30,
-      "trudnosc": 1
+      "trudnosc": 4
     }
   ]
 }
